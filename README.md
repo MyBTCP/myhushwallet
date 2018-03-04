@@ -1,12 +1,11 @@
-# myhushwallet
+# myBTCPwallet
 
-MyHushWallet is a client-side browser-based wallet for Hush.
+*myBTCPwallet* is a client-side browser-based wallet for **Bitcoin Private**
 
-This project is a port of MyZenWallet https://github.com/ZencashOfficial/myzenwallet which was inspired by MyEtherWallet.
+this project is a port of [MyZenWallet](https://github.com/ZencashOfficial/myzenwallet) which was inspired by [MyEtherWallet](https://github.com/MyEtherWallet/MyEtherWallet/)
 
-Coming Soon To a URL Near You
 
 # Running locally
-Download index.html, faq.html, guide.html, favicon.ico, Javascript folder (js) and double click `index.html`
+download index.html, faq.html, guide.html, favicon.ico, Javascript folder (js) and double click `index.html`
 
 
